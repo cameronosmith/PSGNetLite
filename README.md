@@ -40,4 +40,4 @@ their official TensorFlow implementation
 Currently testing with DeepMind's Objects Room dataset, but you can substitute
 with any data loader. You can download the dataset from their [Google Cloud
 Storage](https://console.cloud.google.com/storage/browser/multi-object-datasets)
-with 'wget https://storage.googleapis.com/multi-object-datasets/objects_room/objects_room_train.tfrecords'.
+with ` curl -O https://storage.googleapis.com/multi-object-datasets/objects_room/objects_room_train.tfrecords `. 
